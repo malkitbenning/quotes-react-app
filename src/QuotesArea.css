@@ -1,0 +1,10 @@
+.quotes-area {
+  background-color: #cdd2de;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(63, 62, 62);
+}
+
+
