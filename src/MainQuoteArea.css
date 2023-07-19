@@ -11,7 +11,17 @@
 }
 
 .quote-author {
-  margin-left: 10rem;
+  margin-left: 25rem;
   font-size: calc(10px + 2vmin);
   color: rgb(63, 62, 62);
+}
+
+.quote-btn {
+  margin: 1rem auto;
+  width: 10rem;
+  background-color: #41474a;
+  color: #f2f0ec;
+  font-size: large;
+  border-radius: 10px;
+  
 }
